@@ -9,7 +9,7 @@
 
 Apps are ordered from most to least important within categories. The vast majority are free!
 
-## Mac
+## Mac and Chrome Extensions
 
 **Essential**
 

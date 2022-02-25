@@ -49,5 +49,11 @@ Apps are ordered from most to least important within categories. The vast majori
 
 ## iPhone (iOS)
 
-- 
-- **Apple Maps** is underrated for turn-by-turn directions
+- [QuickScan](https://apps.apple.com/us/app/quickscan-ocr-scanner-app/id1513790291): free, handy, fast PDF scanner (no more CamScanner!)
+- [Scannable](https://apps.apple.com/us/app/evernote-scannable/id883338188): in my experience Scannable has the clearest scans and the best image processing
+- [Intonia](https://apps.apple.com/us/app/intonia/id1397570622): lets you visualize how in-tune your singing or instrument-playing is (unforunately)
+- [Apple Maps](https://apps.apple.com/us/app/apple-maps/id915056765): is underrated for turn-by-turn directions. With the latest update, it is 🔥!
+- [G.Calculator](https://apps.apple.com/us/app/graphing-calculator-x84/id1247828717): TI-84 based calculator app
+- [SPQR](https://apps.apple.com/us/app/spqr-latin-dictionary-and-reader/id407340562): Latin dictionary and texts in one handy app
+- [Wikipedia](https://apps.apple.com/us/app/wikipedia/id324715238): I like the design, and it's such a time sink!
+- [Axios](https://apps.apple.com/app/apple-store/id1464917429?pt=118515854): compact, efficient, mostly unbiased/nuanced news. Emphasis on presenting facts and concision

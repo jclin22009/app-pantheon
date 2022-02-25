@@ -17,14 +17,14 @@ Apps are ordered from most to least important within categories. The vast majori
 
 - [Archive](https://chrome.google.com/webstore/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia?hl=en-US): access old versions and most news articles with a single click
 - [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en): change speed of videos; useful for lectures
-- [Yoink](https://apps.apple.com/us/app/yoink-improved-drag-and-drop/id457622435?mt=12): drag files more conveniently
+- [Pandan](https://apps.apple.com/us/app/pandan/id1569600264?mt=12): keep track of how long your current screen time session has been so far
+- [Ferdi](https://getferdi.com/): Whatsapp, Instagram, Messenger DMs (plus more) in one free app
 
 **Nice to Have**
 
 - [OwlOCR](https://owlocr.com/): screenshot copy and paste
 - [IINA](https://iina.io/): video player that can handle more formats and looks great
-- [Pandan](https://apps.apple.com/us/app/pandan/id1569600264?mt=12): keep track of how long your current screen time session has been so far
-- [Ferdi](https://getferdi.com/): Whatsapp, Instagram, Messenger DMs (plus more) in one free app
+- [Yoink](https://apps.apple.com/us/app/yoink-improved-drag-and-drop/id457622435?mt=12): drag files more conveniently
 - [TimeYourWeb](https://chrome.google.com/webstore/detail/timeyourweb-time-tracker/kfmlkgchpffnaphmlmjnimonlldbcpnh?hl=en): Be more aware of your web time usage
 - [BitWarden](https://bitwarden.com/): password manager
 - [Return YouTube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi): enough said

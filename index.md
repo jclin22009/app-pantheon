@@ -1,6 +1,6 @@
 # 🏛 app-pantheon 🏛
 
-> My powers are ordinary. **Only my application brings me success.**
+> My powers are ordinary. Only my *app*lication brings me success.
 > 
 > —Issac Newton
 

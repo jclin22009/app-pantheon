@@ -30,7 +30,9 @@ Apps are ordered from most to least important within categories. The vast majori
 - [Yoink](https://apps.apple.com/us/app/yoink-improved-drag-and-drop/id4576224352): drag files more conveniently
 - [TimeYourWeb](https://chrome.google.com/webstore/detail/timeyourweb-time-tracker/kfmlkgchpffnaphmlmjnimonlldbcpnh): Be more aware of your web time usage
 - [BitWarden](https://bitwarden.com/): password manager
+- [Numi](https://numi.app/): beautifully designed, rapidly toggleable calculator with built-in unit conversions, radians vs. degrees, etc.
 - [Return YouTube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi): enough said
+- [Spark](https://sparkmailapp.com/): nice cross-platform mail client across iPhone, iPad, Mac, Apple Watch. Handy features like snooze and delay send
 
 **Coding**
 
@@ -44,3 +46,8 @@ Apps are ordered from most to least important within categories. The vast majori
 
 - [Envato](https://www.envato.com/): all the assets you need
 - [Downie](https://software.charliemonroe.net/downie/): quickly scrape and download almost any video from online
+
+## iPhone (iOS)
+
+- 
+- **Apple Maps** is underrated for turn-by-turn directions

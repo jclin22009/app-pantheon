@@ -1,7 +1,7 @@
 # 🏛 app-pantheon 🏛
 
 A list of apps that I've found extremely useful, made for the reference of friends and family
-
+======
 ## Overview
 
 Apps are ordered from most to least important within categories. The vast majority are free!

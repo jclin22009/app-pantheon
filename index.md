@@ -1,8 +1,8 @@
 # 🏛 app-pantheon 🏛
 
-> **"A ~~dog~~ handy app is man's best friend."**
+> My powers are ordinary. **Only my application brings me success.**
 > 
-> — Aristotle, _Nicomachean Ethics_
+> —Issac Newton
 
 
 ## Overview

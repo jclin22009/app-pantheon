@@ -1,6 +1,11 @@
 # 🏛 app-pantheon 🏛
 
-> A list of apps that I've found extremely useful, made for the reference of friends and family
+A list of apps that I've found extremely useful, made for the reference of friends and family.
+
+> "A ~~dog~~ handy app is man's best friend."
+> 
+> — Aristotle, _Nicomachean Ethics_
+
 
 ## Overview
 

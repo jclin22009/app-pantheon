@@ -46,6 +46,8 @@ Apps are ordered from most to least important within categories. The vast majori
 
 - [Envato](https://www.envato.com/): all the assets you need
 - [Downie](https://software.charliemonroe.net/downie/): quickly scrape and download almost any video from online
+- [Unsplash](https://unsplash.com/): many fantastic free photos
+- [The Noun Project](https://thenounproject.com/): many free icons
 
 ## iPhone (iOS)
 

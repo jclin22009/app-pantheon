@@ -18,7 +18,7 @@ Apps are ordered from most to least important within categories. The vast majori
 
 **Extremely Handy**
 
-- [Archive](https://chrome.google.com/webstore/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia): access old versions and most news articles with a single click
+- [Archive](https://chrome.google.com/webstore/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia): access most news articles for free with a single  click (and old versions of websites)
 - [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk): change speed of videos; useful for lectures
 - [Pandan](https://apps.apple.com/us/app/pandan/id1569600264?mt=12): keep track of how long your current screen time session has been so far
 - [Ferdi](https://getferdi.com/): Whatsapp, Instagram, Messenger DMs (plus more) in one free app

@@ -14,7 +14,7 @@ Apps are ordered from most to least important within categories. The vast majori
 **Essential**
 
 - [UBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm): ad blocker that makes browsing the Internet much more enjoyable
-- [Rectangle](https://github.com/fikovnik/ShiftIt): speedy convenient window management. Really speeds up work, cannot be underemphasized!
+- [Rectangle](https://rectangleapp.com/): speedy convenient window management. Really speeds up work, cannot be underemphasized!
 
 **Extremely Handy**
 

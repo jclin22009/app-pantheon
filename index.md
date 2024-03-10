@@ -20,12 +20,11 @@ Apps are ordered from most to least important within categories. The vast majori
 
 - [Archive](https://chrome.google.com/webstore/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia): access most news articles for free with a single  click (and old versions of websites)
 - [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk): change speed of videos; useful for lectures
-- [Pandan](https://apps.apple.com/us/app/pandan/id1569600264?mt=12): keep track of how long your current screen time session has been so far
-- [Ferdi](https://getferdi.com/): Whatsapp, Instagram, Messenger DMs (plus more) in one free app
+- [OwlOCR](https://owlocr.com/): screenshot copy and paste
 
 **Nice to Have**
 
-- [OwlOCR](https://owlocr.com/): screenshot copy and paste
+- [Pandan](https://apps.apple.com/us/app/pandan/id1569600264?mt=12): keep track of how long your current screen time session has been so far
 - [IINA](https://iina.io/): video player that can handle more formats and looks great
 - [Yoink](https://apps.apple.com/us/app/yoink-improved-drag-and-drop/id4576224352): drag files more conveniently
 - [TimeYourWeb](https://chrome.google.com/webstore/detail/timeyourweb-time-tracker/kfmlkgchpffnaphmlmjnimonlldbcpnh): Be more aware of your web time usage
@@ -37,7 +36,7 @@ Apps are ordered from most to least important within categories. The vast majori
 **Coding**
 
 - [VSCode](https://code.visualstudio.com/): great all around editor
-- [Nova](https://nova.app/): elegant code editor for web development
+- [Nova](https://nova.app/): elegant code editor for web development, robust visual SSH
 - [iTerm](https://iterm2.com/): terminal with more options
 - [Mark Text](https://marktext.app/): configurable, elegant GUI Markdown editor
 - [Github Desktop](https://desktop.github.com/): great for approachable git management
